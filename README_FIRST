@@ -1,0 +1,9 @@
+This code simulates a 3D phi-4 theory at finite density using a loop updating algorithm, and is based on:
+
+http://arxiv.org/abs/hep-lat/0609037
+http://arxiv.org/abs/hep-lat/0610029
+
+To make, run:
+
+./make.sh
+
